@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\bin\Debug\net6.0\ChangeEllementsInArray.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\bin\Debug\net6.0\ChangeEllementsInArray.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\bin\Debug\net6.0\ChangeEllementsInArray.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\bin\Debug\net6.0\ChangeEllementsInArray.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\bin\Debug\net6.0\ChangeEllementsInArray.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\refint\ChangeEllementsInArray.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ChangeEllementsInArray.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\ChangeEllementsInArray\obj\Debug\net6.0\ref\ChangeEllementsInArray.dll
