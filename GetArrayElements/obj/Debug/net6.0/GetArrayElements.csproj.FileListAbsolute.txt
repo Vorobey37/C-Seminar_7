@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\bin\Debug\net6.0\GetArrayElements.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\bin\Debug\net6.0\GetArrayElements.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\bin\Debug\net6.0\GetArrayElements.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\bin\Debug\net6.0\GetArrayElements.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\bin\Debug\net6.0\GetArrayElements.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\refint\GetArrayElements.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\GetArrayElements.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\GetArrayElements\obj\Debug\net6.0\ref\GetArrayElements.dll
