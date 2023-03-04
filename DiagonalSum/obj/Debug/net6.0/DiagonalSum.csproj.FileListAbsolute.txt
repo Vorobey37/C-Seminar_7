@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\refint\DiagonalSum.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_7\DiagonalSum\obj\Debug\net6.0\ref\DiagonalSum.dll
